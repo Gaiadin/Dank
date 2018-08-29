@@ -1,0 +1,19 @@
+C:\Users\James Munger\Documents\Visual Studio 2010\Projects\Dank\Dank\DankContent\obj\x86\Debug\DankContent.contentprojResolveAssemblyReference.cache
+G:\Learning\topicgraphics\DankAndFiles\Dank\Dank\DankContent\obj\x86\Debug\DankContent.contentprojResolveAssemblyReference.cache
+C:\Users\Gaiadin\Dropbox\shared project\Dank\Dank\DankContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James Munger\Dropbox\shared project\Dank\Dank\DankContent\obj\x86\Debug\DankContent.contentprojResolveAssemblyReference.cache
+E:\Learning\topicgraphics\DankAndFiles\Dank\Dank\DankContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Learning\topicgraphics\DankAndFiles\Dank\Dank\DankContent\obj\x86\Debug\DankContent.contentprojResolveAssemblyReference.cache
+C:\Users\jena\Dropbox\shared project\Dank\Dank\DankContent\obj\x86\Debug\DankContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jesus\Dropbox\shared project\Dank\Dank\DankContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James Munger\Desktop\Dank\Dank\DankContent\obj\x86\Debug\DankContent.contentprojResolveAssemblyReference.cache
+C:\Users\Gaiadin\Desktop\Dank\Dank\DankContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaiadin\Dropbox\shared project\NEW DANK\Dank\Dank\DankContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jena\Dropbox\shared project\NEW DANK\Dank\Dank\DankContent\obj\x86\Debug\DankContent.contentprojResolveAssemblyReference.cache
+C:\Users\James Munger\Dropbox\shared project\NEW DANK\Dank\Dank\DankContent\obj\x86\Debug\DankContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\Dank\Dank\DankContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus\Dropbox\shared project\NEW DANK\Dank\Dank\DankContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James Munger\Desktop\Dank\Dank\DankContent\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\Jesus\Dropbox\shared project\NEW DANK\Dank\Dank\DankContent\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\Jesus\Desktop\Dank\Dank\DankContent\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\James Munger\Dropbox\shared project\NEW DANK\Dank\Dank\DankContent\obj\x86\Debug\Audio\GameAudio.xml

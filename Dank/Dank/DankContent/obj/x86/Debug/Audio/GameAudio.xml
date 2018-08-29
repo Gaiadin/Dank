@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 2043788865;
+    Bank Last Revised High = 30282675;
+
+    Wave
+    {
+        Name = rotate2;
+        File = rotate2.wav;
+        Build Settings Last Modified Low = 2354544599;
+        Build Settings Last Modified High = 30281466;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 86464;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 443104410;
+            Last Modified High = 30281466;
+        }
+    }
+
+    Wave
+    {
+        Name = rotate1;
+        File = rotate1.wav;
+        Build Settings Last Modified Low = 2329172468;
+        Build Settings Last Modified High = 30281466;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 74112;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4119662445;
+            Last Modified High = 30281465;
+        }
+    }
+
+    Wave
+    {
+        Name = pickup;
+        File = pickup.wav;
+        Build Settings Last Modified Low = 2139762272;
+        Build Settings Last Modified High = 30282674;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 114606;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1170782886;
+            Last Modified High = 30282673;
+        }
+    }
+
+    Wave
+    {
+        Name = use;
+        File = use.wav;
+        Build Settings Last Modified Low = 2206165575;
+        Build Settings Last Modified High = 30282674;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 208244;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2197496915;
+            Last Modified High = 30282673;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

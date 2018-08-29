@@ -1,0 +1,26 @@
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Images\backgrounds.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Images\rocky.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Images\pit.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Images\player.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Images\dungeonrooms.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Images\hero.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Images\battleBG.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Images\herowalk.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Images\dungeonrooms1.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Images\rabite.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Images\font.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Audio\dungeon1.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Audio\dungeon2.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Audio\dungeon3.xnb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Audio\dungeon1.wma
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Audio\dungeon2.wma
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Audio\dungeon3.wma
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Audio\GameAudio.xgs
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Audio\Wave Bank.xwb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Content\Audio\Sound Bank.xsb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Dank.exe
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\bin\x86\Release\Dank.pdb
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\obj\x86\Release\Dank.exe
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\Dank\obj\x86\Release\Dank.pdb

@@ -1,0 +1,2 @@
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\DankContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gaiadin\Dropbox\shared project\flying Bats\Dank\Dank\DankContent\obj\x86\Release\Audio\GameAudio.xml
